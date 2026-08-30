@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I bake the best chocolate Swiss roll! 💪
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=seal-000&show_icons=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=seal-000&rank_icon=github&show_icons=true&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=seal-000&rank_icon=github&show_icons=true&include_all_commits=true&theme=shadow_blue)
